@@ -2,6 +2,7 @@ import sys
 
 from PySide6.QtGui import QColorConstants, QColor
 from PySide6.QtCore import (
+    Qt,
     QTime,
     Slot
 )
