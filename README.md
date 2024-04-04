@@ -17,5 +17,5 @@ python -i main.py
 
  * tests
 ```
-python -m pytest
+python -m pytest --capture=no
 ```
