@@ -19,3 +19,7 @@ python -i main.py
 ```
 python -m pytest --capture=no
 ```
+
+![TimerWork](resources/TimerWork.png)
+
+![TimerRest](resources/TimerRest.png)
